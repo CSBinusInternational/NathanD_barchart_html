@@ -28,9 +28,6 @@ li {
 
 
 
-
-
-
 .main {
   padding: 10px 80px;
   color: 006F84;
@@ -40,6 +37,35 @@ li {
   font-size: 60px;
   border-bottom: 2px solid #dee7ec;
 }
+
+
+.genderpiechart {
+  display: block;
+  position: static;
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  background-image: conic-gradient(
+    red 230.4deg, 
+    blue 0 360deg, 
+    orange 0);
+}
+
+.genderpiechart li {
+  padding-left: 400px;
+  padding-top: 30px;
+  list-style: none;
+
+}
+
+.genderpiechart span {
+  color:red ; 
+}
+
+.genderpiechart span2 {
+  color: blue;
+}
+
 
 
 .survival h2 {
