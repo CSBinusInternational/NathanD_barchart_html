@@ -1,0 +1,94 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+}
+
+.header {
+  background-color: #B3E3F9;
+  color: #000000;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
+
+
+
+
+
+
+
+
+
+.main {
+  padding: 10px 80px;
+  color: 006F84;
+}
+
+.gender h2 {
+  font-size: 60px;
+  border-bottom: 2px solid #dee7ec;
+}
+
+
+.survival h2 {
+  font-size: 60px;
+  border-bottom: 2px solid #dee7ec;
+}
+
+
+.age h2 {
+  font-size: 60px;
+  border-bottom: 2px solid #dee7ec;
+}
+
+
+.embarked h2 {
+  font-size: 60px;
+  border-bottom: 2px solid #dee7ec;
+}
+
+
+.pclass h2 {
+  font-size: 60px;
+  border-bottom: 2px solid #dee7ec;
+}
+
+
+
+
+
+
+
+
+
+.footer {
+  background-color: #001245;
+  color: #fff;
+  height: 100px;
+  padding: 40px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
